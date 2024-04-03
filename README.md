@@ -1,6 +1,6 @@
 # Latent Dirichlet Allocation
 
-An introductory project to natural language processing from data camp providing the building blocks for natural language processing. This repository also contains a feasibility study carried out for MT414 assessing the requirements needed to conduct sentiment analysis using posts from Twitter.
+An introductory project to natural language processing from data camp providing the building blocks for natural language processing. This repository also contains a feasibility study carried out for MT414 assessing the requirements needed to conduct sentiment analysis using posts from Twitter. * This report will be made available sometime after the due date, to avoid potential plagiarism issues.
 
 Skills Showcased:
 
